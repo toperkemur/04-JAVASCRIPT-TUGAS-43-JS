@@ -10,5 +10,5 @@ Tugas 43 JS Niomic
   <li>Setelah itu akses tugas43.html</li>
 <li>Nah setelah itu teman teman lakukan history back pada tugas43.html untuk kembali ke index.html</li>
 <li>Setelah itu teman teman lakukan history forward pada index.html untuk ke tugas43.html</li>
-<br>
+</ul>
 4. Happy Codding :)
